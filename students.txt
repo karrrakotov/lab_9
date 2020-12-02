@@ -1,0 +1,1 @@
+[{"name": "ivanov", "group": "ivt", "marks": [5, 4, 5, 4, 5]}, {"name": "karakotov", "group": "ivt", "marks": [5, 5, 5, 5, 5]}]
